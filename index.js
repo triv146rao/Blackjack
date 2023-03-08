@@ -9,7 +9,7 @@ let sumEl=document.querySelector("#sum")
 let messageEl=document.getElementById("message-el")
 
 let Player={
-    name:"per",
+    name:"Triv",
     chips:145
 }
 let playEl=document.getElementById("player-el")
